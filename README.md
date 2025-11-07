@@ -1,7 +1,6 @@
 # 🌤️ Weather API
 
 **Weather API** est un petit projet Python/Flask qui permet de récupérer la météo en temps réel pour une ville donnée grâce à l’API OpenWeatherMap.  
-Ce projet est conçu pour **apprendre et pratiquer Git**, tout en proposant une API REST simple et proprement structurée.
 
 ---
 
